@@ -17,8 +17,8 @@ Olá, me chamo Lucas. Sou estudante de Engenharia de Software na Universidade Ca
 
 <img 
   align="left"
-  alt="HTML"
-  title="HTML"
+  alt="CSS"
+  title="CSS"
   width="30px"
   style="´padding-right: 10px"
   src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
@@ -26,8 +26,8 @@ Olá, me chamo Lucas. Sou estudante de Engenharia de Software na Universidade Ca
 
 <img 
   align="left"
-  alt="HTML"
-  title="HTML"
+  alt="Tailwind CSS"
+  title="Tailwind CSS"
   width="30px"
   style="´padding-right: 10px"
   src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg"
@@ -35,8 +35,8 @@ Olá, me chamo Lucas. Sou estudante de Engenharia de Software na Universidade Ca
 
 <img 
   align="left"
-  alt="HTML"
-  title="HTML"
+  alt="JavaScript"
+  title="JavaScript"
   width="30px"
   style="´padding-right: 10px"
   src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
@@ -44,8 +44,8 @@ Olá, me chamo Lucas. Sou estudante de Engenharia de Software na Universidade Ca
 
 <img 
   align="left"
-  alt="HTML"
-  title="HTML"
+  alt="Python"
+  title="Python"
   width="30px"
   style="´padding-right: 10px"
   src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"
@@ -53,12 +53,28 @@ Olá, me chamo Lucas. Sou estudante de Engenharia de Software na Universidade Ca
 
 <img 
   align="left"
-  alt="HTML"
-  title="HTML"
+  alt="MySQL"
+  title="MySQL"
   width="30px"
   style="´padding-right: 10px"
   src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg"
 />
+
+<img 
+  alt="Git"
+  title="Git"
+  width="30px"
+  style="´padding-right: 10px"
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg"
+/>
+
+## GitHub stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=lucaspinheiror&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)
+
+![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=lucaspinheiror&layout=compact&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF)
+
+## Redes
 
 <img 
   align="left"
@@ -66,22 +82,7 @@ Olá, me chamo Lucas. Sou estudante de Engenharia de Software na Universidade Ca
   title="HTML"
   width="30px"
   style="´padding-right: 10px"
-  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg"
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg"
 />
-          
-          
-          
-<!--
-**lucaspinheiror/lucaspinheiror** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
