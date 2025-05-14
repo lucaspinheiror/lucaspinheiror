@@ -1,5 +1,8 @@
-## Hi there 👋
+# 👨‍💻 Lucas Pinheiro Rodrigues
 
+**`Estudante de Engenharia de Software`** 
+
+Olá, me chamo Lucas. Sou estudante de Engenharia de Software na Universidade Católica de Brasília (UCB) e atualmente estou no 5° período.
 <!--
 **lucaspinheiror/lucaspinheiror** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
